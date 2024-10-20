@@ -1973,11 +1973,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "channels":
         buttons = [[           
-            InlineKeyboardButton('⚜️ Movie Group ⚜️', url="https://t.me/Deendayal_Movie_Group"),
-            InlineKeyboardButton('☔ Contact ☔', url="https://t.me/Contact_Deendayal_bot")
+            InlineKeyboardButton('⚜️ Movie Group ⚜️', url="https://t.me/MdiskGroup"),
+            InlineKeyboardButton('☔ Contact ☔', url="https://t.me/super4crazy786")
         ],[
-            InlineKeyboardButton('🔥 Movie Update Notification 🔥', url="https://t.me/Deendayal_files_Update"),
-            InlineKeyboardButton('👮 Update Channel 👮', url="https://t.me/Deendayal_dhakad")
+            InlineKeyboardButton('🔥 Movie Update Notification 🔥', url="https://t.me/supermoviesupdate"),
+            InlineKeyboardButton('👮 Update Channel 👮', url="https://t.me/super4crazy")
         ],[
             InlineKeyboardButton('⇍ ʙᴀᴄᴋ ⇏', callback_data='start')
         ]] 
